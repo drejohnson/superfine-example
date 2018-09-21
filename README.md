@@ -1,2 +1,1 @@
-# superfine-example
-Created with CodeSandbox
+# Meiosis + Superfine
